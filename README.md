@@ -1,4 +1,5 @@
 <img width="1680" height="746" alt="Captura de pantalla 2026-08-03 a la(s) 5 33 10 p m" src="https://github.com/user-attachments/assets/3a470e3a-7d01-4106-92e2-c0e3ffe5b81b" />
+
 # Marine Liability Pricing & Portfolio Diagnostics Model
 
 ## Overview
